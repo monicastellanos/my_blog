@@ -1,2 +1,2 @@
-# my_blog
+# My blog
 A page about me
